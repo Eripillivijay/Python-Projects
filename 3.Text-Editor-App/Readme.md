@@ -7,12 +7,12 @@ A modern desktop text editor built with **Python** and **Tkinter**, inspired by 
 ## 📷 Application Preview
 
 <p align="center">
-  <img src="screenshots/1.png" width="700">
+  <img src="Screenshots/1.png" width="700">
 </p>
 
 <p align="center">
-  <img src="screenshots/2.png" width="340">
-  <img src="screenshots/3.png" width="340">
+  <img src="Screenshots/2.png" width="340">
+  <img src="Screenshots/3.png" width="340">
 </p>
 
 ---
