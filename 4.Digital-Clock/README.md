@@ -7,8 +7,8 @@ A modern **Digital Clock Desktop Application** built using **Python** and **Tkin
 ## 📸 Preview
 
 <p align="center">
-  <img src="assets/dark-mode.png" width="49%" alt="Dark Mode"/>
-  <img src="assets/light-mode.png" width="49%" alt="Light Mode"/>
+  <img src="assets/dark.png" width="49%" alt="Dark Mode"/>
+  <img src="assets/light.png" width="49%" alt="Light Mode"/>
 </p>
 
 ---
